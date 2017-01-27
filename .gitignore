@@ -1,3 +1,9 @@
+#IDEs
+.idea
+*.iml
+*.ipr
+
+#Jekyll
 _site/
 .sass-cache/
 .jekyll-metadata
