@@ -3,6 +3,9 @@
 *.iml
 *.ipr
 
+#MacOS
+.DS_Store
+
 #Jekyll
 _site/
 .sass-cache/

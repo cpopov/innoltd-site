@@ -1,2 +1,13 @@
-# innoltd-site
-Inno Ltd homepage
+# Inno Ltd. web site
+
+## Run
+
+```
+jekyll serve
+```
+
+## Build
+
+```
+jekyll build
+```
